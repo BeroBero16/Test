@@ -3,7 +3,10 @@ using namespace std ;
 int main()
 {
 
-cout<<"Master";
+cout<<"This is Master";
+// Fun test
+
+cout<<"1";
 
 
 
