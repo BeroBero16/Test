@@ -8,5 +8,7 @@ cout<<"3";
 cout<<"4";
 cout<<"5";
 cout<<"6";
+cout<<"8";
+
 	return 0;
 }
